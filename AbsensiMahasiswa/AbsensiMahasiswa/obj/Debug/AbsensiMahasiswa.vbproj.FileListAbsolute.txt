@@ -1,0 +1,15 @@
+C:\belajar\AbsensiMahasiswa\AbsensiMahasiswa\bin\Debug\AbsensiMahasiswa.exe.config
+C:\belajar\AbsensiMahasiswa\AbsensiMahasiswa\bin\Debug\AbsensiMahasiswa.exe
+C:\belajar\AbsensiMahasiswa\AbsensiMahasiswa\bin\Debug\AbsensiMahasiswa.pdb
+C:\belajar\AbsensiMahasiswa\AbsensiMahasiswa\bin\Debug\AbsensiMahasiswa.xml
+C:\belajar\AbsensiMahasiswa\AbsensiMahasiswa\bin\Debug\System.Data.OleDb.dll
+C:\belajar\AbsensiMahasiswa\AbsensiMahasiswa\bin\Debug\System.Data.OleDb.xml
+C:\belajar\AbsensiMahasiswa\AbsensiMahasiswa\obj\Debug\AbsensiMahasiswa.vbproj.AssemblyReference.cache
+C:\belajar\AbsensiMahasiswa\AbsensiMahasiswa\obj\Debug\AbsensiMahasiswa.Form1.resources
+C:\belajar\AbsensiMahasiswa\AbsensiMahasiswa\obj\Debug\AbsensiMahasiswa.Resources.resources
+C:\belajar\AbsensiMahasiswa\AbsensiMahasiswa\obj\Debug\AbsensiMahasiswa.vbproj.GenerateResource.cache
+C:\belajar\AbsensiMahasiswa\AbsensiMahasiswa\obj\Debug\AbsensiMahasiswa.vbproj.CoreCompileInputs.cache
+C:\belajar\AbsensiMahasiswa\AbsensiMahasiswa\obj\Debug\AbsensiMahasiswa.vbproj.CopyComplete
+C:\belajar\AbsensiMahasiswa\AbsensiMahasiswa\obj\Debug\AbsensiMahasiswa.exe
+C:\belajar\AbsensiMahasiswa\AbsensiMahasiswa\obj\Debug\AbsensiMahasiswa.xml
+C:\belajar\AbsensiMahasiswa\AbsensiMahasiswa\obj\Debug\AbsensiMahasiswa.pdb

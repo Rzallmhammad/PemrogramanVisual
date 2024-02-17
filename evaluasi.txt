@@ -1,0 +1,11 @@
+Mari kita evaluasi kriteria yang telah disebutkan:
+
+a. Program dapat membaca file: Kode yang diberikan tidak terlihat membaca file secara langsung. Untuk memenuhi kriteria ini, Anda dapat menambahkan fungsionalitas yang membaca atau memproses file.
+
+b. Terdapat percabangan di dalam program: Ya, terdapat percabangan di dalam program. Contohnya, pada bagian tombol btnDelete_Click, terdapat percabangan yang melakukan validasi untuk memastikan bahwa NIM harus berupa nilai numerik.
+
+c. Terdapat perulangan di dalam program: Tidak ada perulangan yang terlihat di dalam kode. Untuk memenuhi kriteria ini, Anda bisa menambahkan perulangan sesuai kebutuhan aplikasi.
+
+d. Terdapat procedure di dalam program: Ya, terdapat beberapa prosedur (subroutine) di dalam program. Contohnya, viewer, Form1_Load, btnSave_Click, DataGridView1_CellClick, btnDelete_Click, dan btnExit_Click semuanya adalah prosedur.
+
+Jadi, dari kriteria yang diberikan, item b dan d terpenuhi. Sedangkan untuk item a dan c, Anda dapat menambahkan fungsionalitas yang sesuai sesuai kebutuhan aplikasi.
